@@ -20,7 +20,9 @@ machine-learning-from-scratch/
 ├── linear_regression/
 │   ├── from_scratch/
 │   ├── sklearn/
-│   
+|── logistic_regression/
+│   ├── from_scratch/
+│   ├── sklearn/  
 │   
 │
 └── README.md
